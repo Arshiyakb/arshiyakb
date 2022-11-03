@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arshiya K B</h1>
+<h1 align="center">Hi 👩‍🌾, I'm Arshiya K B</h1>
 <h3 align="center">A self taught Data Analyst</h3>
 
 - 👨‍💻 All of my projects are available at [https://arshiyakb123.wixsite.com/salma](https://arshiyakb123.wixsite.com/salma)
